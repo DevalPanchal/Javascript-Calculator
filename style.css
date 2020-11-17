@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(70, 68, 67);
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+#display {
+    background-color: white;
+    width: 310px;
+    height: 100px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    margin: 0 auto 0 auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    border: 6px solid rgb(40, 41, 41);
+    box-shadow: 10px 10px;
+}
+
+#calculator {
+    background-color: rgb(180, 180, 180);
+    width: 310px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid rgb(40, 41, 41);
+    box-shadow: 10px 10px;
+}
+
+#steps {
+    padding-left: 24px;
+    font-size: 24px;
+}
+
+a {
+    margin: 3px;
+    width: 64px;
+    height: 62px;
+    border-radius: 5px;
+    box-shadow: 3px 3px black;
+}
+
+.bigButton {
+    width: 136px;
+}
